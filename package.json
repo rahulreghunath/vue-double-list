@@ -2,7 +2,7 @@
   "name": "vue-double-list",
   "version": "0.1.0",
   "private": true,
-  "main": "src/main.js",
+  "main": "src/VueDoubleList.vue",
   "description": "A beautiful replacement for JavaScript's \"alert\"",
   "author": "Rahul Reghunath <rahulreghunath11@gmail.com>",
   "license": "MIT",
